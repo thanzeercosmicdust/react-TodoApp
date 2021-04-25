@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color: aquamarine;
+
+}
+.Todo-container {
+    
+    width: 700px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+
+}
+.input-section{
+    background-color: cadetblue;
+}
+ul {
+    background-color: chartreuse;
+    padding: 5px;
+    min-height: 50px;
+    
+}
+ul li i{
+    cursor:pointer
+
+}

@@ -1,0 +1,14 @@
+Header {
+    background-color:chocolate;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    top: center;
+}
+header a{
+    color: blue;
+    text-decoration: chartreuse;
+    margin: 0 20px;
+    font-weight: bolder;
+}
